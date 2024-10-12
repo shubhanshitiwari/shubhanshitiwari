@@ -7,6 +7,7 @@
 ### 🚀 About Me
 - I'm a 2nd-year B.Tech. (AIML) student at the School of Information Technology RGPV.
 - Passionate about Web Development, Web3 Aspirant and Blockchain Enthusiast.
+- I'm passionate about delving into the world of Web3, exploring the latest advancements in blockchain technology.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
 
