@@ -23,6 +23,11 @@
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
 
 ---
+# 👀 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/whyweexist/count.svg)
+
+
   
 ## &#x1f4c8; My GitHub Stats
 | Shubhanshi's GitHub Stats | GitHub Streak |
